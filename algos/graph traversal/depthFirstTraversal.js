@@ -1,6 +1,6 @@
 const testGraph = require('./testGraph.js');
 
-// user recursion to traverse down the fist edge of each vertex, 
+// use recursion to traverse down the fist edge of each vertex, 
 // perform callback as needed at each vertex
 // like printing data (ie graph of instructions)
 
